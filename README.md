@@ -2,7 +2,7 @@
 
 Bienvenido al sitio oficial de **Metal Travel**, la agencia de viajes especializada en tours a los festivales de música más épicos del planeta 🤘
 
-Este proyecto fue desarrollado con **Next.js** y **Tailwind CSS**, y está desplegado en **Netlify**, usando **Zoho Mail** para correo corporativo.
+Este proyecto fue desarrollado con **Next.js** y **Tailwind CSS**.
 
 ---
 
